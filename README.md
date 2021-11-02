@@ -1,4 +1,5 @@
-### This repo is for ip assignment 2
-Name - Dhruv Sachdev 
-Class - D12B
-Roll no.: 54 
+# IP-Assignment2
+
+Problem Statement: Newspoint - A website for news updates.
+
+By: Dhruv Sachdev D12 54
